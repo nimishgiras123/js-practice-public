@@ -67,6 +67,52 @@
 // console.log(convertNum); // 33
 // console.log(typeof convertNum); //string
 
+// ********* Operations **********
+
+
+
+// let value = 3;
+// let negValue = - value
+// console.log(negValue); // -3
+
+
+
+
+// let str1 = "abc"
+// let str2 = "cba"
+// let str3 = str1 + str2
+// console.log(str3); // abccba
+
+
+
+// Some cases to be noted :
+
+// console.log("1"+2); //12
+// console.log(1+"2"); //12
+// console.log("1"+"2"); //12
+// console.log("1"+2+2); //122
+// console.log(1+2+"2"); //32
+
+
+
+// console.log(+true); //1
+// console.log(+""); //0
+
+
+
+// let num1,num2,num3
+// num1 = num2 = num3 = 2+2
+// console.log(num1,num2,num3); // 4 4 4 
+
+
+
+// read prefix and postfix from MDN
+
+// read conversion topic from 
+// https://tc39.es/ecma262/multipage/abstract-operations.html#sec-toprimitive
+
+
+
 
 
 
